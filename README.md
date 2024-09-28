@@ -5,8 +5,8 @@ This project, completed for STA6366: Statistical Methodology for Data Science I,
 
 ## Group Members
 - Sandamini Senaratne
-- Shahad Alnofaei
-- Mehedi Hassan Bhuiyan
+- Shahd Alnofaie
+- Md Mehedi Hasan Bhuiyan
 
 ## Objectives
 - Predict the rate of child malnutrition in Bangladesh, including underweight, stunting, wasting, and overweight categories.
